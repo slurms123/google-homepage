@@ -1,0 +1,61 @@
+#searchbar {
+	border-color: #0a435e;
+	position: absolute;
+	width: 500px;
+	height: 50px;
+}
+#logoandsearch {
+	height: 200px;
+	width: 200px;
+	padding: 200px 150px 0 150px;
+	position: center;
+	text-align: center;
+
+}
+#header ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#header li {
+	float: right;
+	display: block;
+	padding: 8px;
+	font-family: Arial;
+	font-size: 1em;
+}
+#leftfooter ul {
+	background: #eef0f1;
+	height: 40px;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	display: block;
+	bottom: 0;
+	width: 50%;
+}
+#leftfooter li {
+	float: left;
+	padding: 8px;
+	list-style-type: none;
+}
+#leftfooter li a {
+	text-decoration: none;
+	color: gray;
+}
+#rightfooter ul{
+	width: auto;
+	bottom: 0;
+	position: absolute;
+	float: right;
+	border: 1px solid black;
+}
+#rightfooter li {
+	float: right;
+	padding: 8px;
+	list-style-type: none;
+}
+#rightfooter li a {
+	text-decoration: none;
+	color: gray;
+}
